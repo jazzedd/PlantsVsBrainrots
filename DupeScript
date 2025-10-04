@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jazzedd/Scripts/refs/heads/main/newLibrary"))()
+loadstring(game:HttpGet("https://pastefy.app/iLBOvQXJ/raw", true))()
